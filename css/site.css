@@ -42,7 +42,11 @@ body {
 
 .card:hover {
     transform: translateY(-5px);
+<<<<<<< Updated upstream
     box-shadow: 0 0.5rem 1rem rgba(2, 104, 24, 0.801) !important;
+=======
+    box-shadow: 0 0.5rem 1rem rgb(50, 136, 0) !important;
+>>>>>>> Stashed changes
 }
 
 /* Botão CTA customizado */
@@ -116,9 +120,15 @@ body {
 footer {
     background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
 }
+<<<<<<< Updated upstream
 
 .shadowbar
 {
   box-shadow: 0 1rem 2rem rgba(0,0,0,0.46);
 }
 
+=======
+img {
+    max-height: 550px;
+}
+>>>>>>> Stashed changes
