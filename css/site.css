@@ -116,3 +116,9 @@ body {
 footer {
     background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
 }
+
+.shadowbar
+{
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0.46);
+}
+
