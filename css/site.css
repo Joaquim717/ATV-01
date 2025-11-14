@@ -117,3 +117,8 @@ body {
 footer {
     background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
 }
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
